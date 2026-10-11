@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatCut 短视频剪辑"
+  short_description: "统一完成口播精剪、字幕、信息图、画中画、素材与封面质检"
+  default_prompt: "Use $chatcut-xiaohongshu-editor to polish this short-form talking-head video in ChatCut."
